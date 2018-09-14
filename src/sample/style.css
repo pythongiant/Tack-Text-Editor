@@ -1,0 +1,15 @@
+.root{
+
+}
+#menu:hover{
+    -fx-background-color:#000;
+}
+.menu .label {
+    -fx-font-size: 1em;
+
+    -fx-font-family: "Helvetica";
+    -fx-text-fill: white;
+}
+.menu-bar,{
+    -fx-background-color:#100;
+}
