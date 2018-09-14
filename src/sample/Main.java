@@ -24,6 +24,7 @@ import javafx.stage.Stage;
 public class Main extends Application {
 
     public static void main(String[] args) { Application.launch(args); }
+
     @Override public void start(Stage stage) {
         VBox root = new VBox();
         StackPane stack = new StackPane();
